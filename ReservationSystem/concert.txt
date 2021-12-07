@@ -1,0 +1,19 @@
+1,Tokyo Olympic,sports,2020/07/23,National Stadium,50000,100000
+2,Los Olympic,sports,2024/07/23,National Stadium,50000,100000
+3,Paris Olympic,sports,2028/07/23,National Stadium,50000,100000
+4,Paris Olympic,sports,2028/07/23,National Stadium,50000,100000
+5,Tenki no Ko,movie,2020/8/15,Sibuya theater,1500,120
+6,The Third of Nazi,movie,2021/4/25,Sinjuku theater,1500,120
+7,Terminator 4,movie,2020/11/11,Tokyo cinema,1500,200
+8,E.T. 2,movie,2021/8/1,Sibuya theater,1500,120
+9,Mission impossible the final,movie,2022/2/24,Tokyo cinema,1500,200
+10,Opera in Tokyo,music,2020/9/25,Budokan,5600,10000
+11,Classic concert,music,2021/7/21,Osaka dome,6000,12000
+12,Twice World Tour,music,2021/8/6,Tokyo dome,7000,12000
+13,Summer festival 2022,music,2022/8/3,Fujikyu park,4000,10000
+14,Christmas concert,music,2022/12/24,Hokkaido,5000,3000
+15,Night museum,museum,2020/8/20,National Museum,2000,500
+16,Picasso Exhibition,museum,2020/11/25,Natinal Museum,2500,500
+17,Egypt Exhibition,museum,2021/4/17,Fukuoka Museum,1500,500
+18,Japanese History Exhibition,museum,2022/5/24,National Museum,1000,500
+19,Dinosaur Exhibition,museum,2022/8/10,National Museum,2000,500
