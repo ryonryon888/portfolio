@@ -1,1 +1,4 @@
 # portfolio
+* Python
+* Java
+* SuperSQL
